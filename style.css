@@ -130,13 +130,13 @@ button {
     background: url(images/harley-sport.jpg) 100%/cover no-repeat;
 }
 .rent:nth-child(2) {
-    background-image: url(/images/harley-Cruiser.jpg);
+    background-image: url(images/harley-Cruiser.jpg);
 }
 .rent:nth-child(3) {
-    background-image: url(/images/harley-Adventure_Touring.jpg);
+    background-image: url(images/harley-Adventure_Touring.jpg);
 }
 .rent:nth-child(4) {
-    background-image: url(/images/harley-Trike.jpg);
+    background-image: url(images/harley-Trike.jpg);
 }
 .rent__name {
     position: absolute;
@@ -234,7 +234,7 @@ button {
     width: 120px;
     height: 35px;
     margin-right: 45px;
-    background: url(/images/face.svg) 50%/cover no-repeat;
+    background: url(images/face.svg) 50%/cover no-repeat;
 }
 .footer-social {
     display: flex;
@@ -242,10 +242,10 @@ button {
     padding-right: 30px;
 }
 .footer-social__link:nth-child(2) {
-    background-image: url(/images/inst.svg);
+    background-image: url(images/inst.svg);
 }
 .footer-social__link:nth-child(3) {
-    background-image: url(/images/youtube.svg);
+    background-image: url(images/youtube.svg);
     margin-bottom: 0;
 }
 
