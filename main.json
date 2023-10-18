@@ -1,6 +1,6 @@
 [
     {
-        "img": "/images/mot_catalog.jpg",
+        "img": "images/mot_catalog.jpg",
         "name": "Nightster Special",
         "har": "2023",
         "type": "Круизер",
@@ -8,7 +8,7 @@
         "cilin": "2/V-образное"
     },
     {
-        "img": "/images/mot_catalog2.jpg",
+        "img": "images/mot_catalog2.jpg",
         "name": "Sportster S",
         "har": "2022",
         "type": "Круизер",
@@ -16,7 +16,7 @@
         "cilin": "2 / V-образное"
     },
     {
-        "img": "/images/mot_catalog3.jpg",
+        "img": "images/mot_catalog3.jpg",
         "name": "Street Bob 114",
         "har": "2023",
         "type": "Чоппер",
@@ -24,7 +24,7 @@
         "cilin": "2 / V-образное"
     },
     {
-        "img": "/images/mot_catalog4.jpg",
+        "img": "images/mot_catalog4.jpg",
         "name": "Sport Glide",
         "har": "2021",
         "type": "Чоппер",
@@ -32,7 +32,7 @@
         "cilin": "4 / V-образное"
     },
     {
-        "img": "/images/mot_catalog5.jpg",
+        "img": "images/mot_catalog5.jpg",
         "name": "Low Rider ST",
         "har": "2023",
         "type": "Круизер",
@@ -40,7 +40,7 @@
         "cilin": "2 / V-образное"
     },
     {
-        "img": "/images/mot_catalog6.jpg",
+        "img": "images/mot_catalog6.jpg",
         "name": "Road King Special",
         "har": "2021",
         "type": "Туристический",
@@ -48,7 +48,7 @@
         "cilin": "4 / V-образное"
     },
     {
-        "img": "/images/mot_catalog7.jpg",
+        "img": "images/mot_catalog7.jpg",
         "name": "Road Glide ST",
         "har": "2022",
         "type": "Туристический",
@@ -56,7 +56,7 @@
         "cilin": "2 / V-образное"
     },
     {
-        "img": "/images/mot_catalog8.jpg",
+        "img": "images/mot_catalog8.jpg",
         "name": "Pan America 1250",
         "har": "2022",
         "type": "Туристический",
@@ -64,7 +64,7 @@
         "cilin": "2 / V-образное"
     },
     {
-        "img": "/images/mot_catalog9.jpg",
+        "img": "images/mot_catalog9.jpg",
         "name": "Freewheeler",
         "har": "2023",
         "type": "Трайк",
