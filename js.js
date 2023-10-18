@@ -3,7 +3,7 @@ let btn = document.getElementsByClassName('element_catalog');
 let close_btn = document.getElementById('close-btn');
 
 async function fill(i) {
-    const response = await fetch("/main.json");
+    const response = await fetch("main.json");
     const jsonData = await response.json();
     console.log(jsonData[0].name);
 
